@@ -1,0 +1,66 @@
+body {
+    background-color: maroon;
+    font-family: 'Open Sans', sans-serif;
+    /*basefont*/
+}
+
+div.main {
+    margin: auto;
+    border-radius: 20px;
+    background-color: white;
+    width: 600px;
+    padding: 30px 75px;
+}
+
+h1 {
+    color: #808000;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+h2 {
+    color: maroon;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+h3 {
+    color: maroon;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+div.second {
+    background-color: rgb(235, 235, 235);
+    border: 1px solid grey;
+    padding: 10px 50px;
+}
+
+img {
+    width: 400px;
+    margin-bottom: 15px;
+}
+
+button {
+    width: 110px;
+    color: white;
+    background-color: #808000;
+    height: 32px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-variant: small-caps;
+}
+
+p {
+    letter-spacing: 0.3px;
+}
+
+span {
+    border: 1px solid black;
+    font-variant: small-caps;
+}
+
+.red {
+    color: maroon;
+}
+
+img:hover {
+    border: 1px solid black;
+}
